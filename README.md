@@ -43,7 +43,7 @@
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Flask" width="48" height="48"/>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48">
       <br>Flask
     </td>
   </tr>
@@ -95,7 +95,7 @@
       <br>Linux
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="48" height="48"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="48" height="48" style="color:#FCCA03"/>
       <br>Power BI
     </td>
     <td align="center" width="100">
