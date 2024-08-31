@@ -1,7 +1,7 @@
 ## Hello GitHub Community 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darvy%20Betances-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darvybm) [![GitHub followers](https://img.shields.io/github/followers/darvybm?style=social)](https://github.com/darvybm)
 
-<img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner.png" width="100%"/>
+<img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner-rounded.png" width="100%"/>
 
 ---
 
