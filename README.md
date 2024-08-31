@@ -8,16 +8,14 @@
 ### I'm Darvy Betances
 
 - 🎓 Computer Science Engineer with a passion for backend development and data engineering.
-- 🌍 Currently based in the Dominican Republic.
+- 🌍 Currently based in the Dominican Republic 🇩🇴.
 - 💻 I love working with Java, Spring Boot, and backend technologies.
 - 📊 Data engineering and artificial intelligence enthusiast.
 - 🌱 Currently enhancing my skills in Angular, testing, and cloud computing with AWS and Google Cloud.
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/darvybm).
-
-<br>
 
 ### 🛠 Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -110,8 +108,7 @@
     </td>
   </tr>
 </table>
-
-<br>
+</div>
 
 ### 🌟 Highlighted Projects
 
