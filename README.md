@@ -1,51 +1,138 @@
 ## Hello GitHub Community 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darvy%20Betances-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darvybm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darvy%20Betances-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darvybm) [![GitHub followers](https://img.shields.io/github/followers/darvybm?style=social)](https://github.com/darvybm)
+
+<img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner.png" width="100%"/>
 
 ---
-<img align="right" alt="GIF" src="" />
 
 ### I'm Darvy Betances
 
-- 🎓 A Computer Science Engineer with a passion for backend development and data engineering.
+- 🎓 Computer Science Engineer with a passion for backend development and data engineering.
 - 🌍 Currently based in the Dominican Republic.
 - 💻 I love working with Java, Spring Boot, and backend technologies.
-- 📊 Enthusiast of data engineering and artificial intelligence.
-- 🌱 Currently strengthening my skills in Angular, testing, and cloud computing with AWS and Google Cloud.
-- 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/darvybm).
+- 📊 Data engineering and artificial intelligence enthusiast.
+- 🌱 Currently enhancing my skills in Angular, testing, and cloud computing with AWS and Google Cloud.
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/darvybm).
+
+<br>
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot) 
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=springsecurity) 
-![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle) 
-![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="48" height="48"/>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48"/>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="48" height="48"/>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="48" height="48"/>
+      <br>Gradle
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="48" height="48"/>
+      <br>Maven
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="48" height="48"/>
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Flask" width="48" height="48"/>
+      <br>Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="48" height="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="48" height="48"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="48" height="48"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" width="48" height="48"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="48" height="48"/>
+      <br>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="48" height="48"/>
+      <br>SQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48"/>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" alt="Linux" width="48" height="48"/>
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="48" height="48"/>
+      <br>Power BI
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="48" height="48"/>
+      <br>Excel
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-- 🌐 &#160; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+<br>
 
-- 🛢 &#160; ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql) 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+### 🌟 Highlighted Projects
 
-- 🐍 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Link</th>
+  </tr>
+  <tr>
+    <td><strong>ExamGuard IA</strong></td>
+    <td>A web system created with Java Spring Boot, Python, deep learning, and computer vision that tracks a person's activity in a recording to detect fraudulent events in the video.</td>
+    <td>[GitHub Repo](https://github.com/darvybm/ExamGuard-AI)</td>
+  </tr>
+  <tr>
+    <td><strong>ContaSoft</strong></td>
+    <td>A web-based accounting system that simulates the entire process of a ledger (entries, trial balance, financial statements, etc.).</td>
+    <td>[GitHub Repo](https://github.com/darvybm/ContaSoft)</td>
+  </tr>
+</table>
 
-- 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+---
 
-### 🌟 Projects & Open Source
-
-- [ExamGuard IA](https://github.com/darvybm/ExamGuard-AI.git) - ExamGuard IA is a web system built with Java Spring Boot, Python, deep learning, and computer vision to track a person's activity in a recording to detect fraudulent events in the video.
-- [ContaSoft](https://github.com/darvybm/ContaSoft.git) - ContaSoft is a web accounting system that simulates the entire process of a ledger (entries, trial balance, financial statements, etc.).
-
-> ***I'm always open to new connections and opportunities, feel free to reach out! 😊***
-
-⭐️ From [Darvy Betances](https://github.com/darvybm)
+🚀 **Always open to new connections and opportunities!** Whether you're looking for collaboration, mentorship, or just want to chat tech, feel free to reach out and let's connect! 😊
