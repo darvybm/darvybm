@@ -121,12 +121,12 @@
   <tr>
     <td><strong>ExamGuard IA</strong></td>
     <td>A web system created with Java Spring Boot, Python, deep learning, and computer vision that tracks a person's activity in a recording to detect fraudulent events in the video.</td>
-    <td>[GitHub Repo](https://github.com/darvybm/ExamGuard-AI)</td>
+    <td><a href="https://github.com/darvybm/ExamGuard-AI">GitHub Repo</a></td>
   </tr>
   <tr>
     <td><strong>ContaSoft</strong></td>
     <td>A web-based accounting system that simulates the entire process of a ledger (entries, trial balance, financial statements, etc.).</td>
-    <td>[GitHub Repo](https://github.com/darvybm/ContaSoft)</td>
+    <td><a href="https://github.com/darvybm/ContaSoft">GitHub Repo</a></td>
   </tr>
 </table>
 
