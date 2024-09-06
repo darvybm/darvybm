@@ -1,21 +1,23 @@
-# Hello, I'm Darvy Betances 👋
+a {
+  text-decoration: none;
+}
+
+<h1 align="center">
+  Hello, I'm Darvy Betances
+</h1>
 
 <img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner.png" width="100%"/>
 
-<p>
+<div>
   <a href="https://www.linkedin.com/in/darvybm" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Darvy%20Betances-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/darvybm" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%2380ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Followers"/>
   </a>
-</p>
+</div>
 
-
-
-
-
-## About me
+## 👋 About Me
 
 - 🎓 Computer Science Engineer with a passion for backend and fullstack development and data engineering.
 - 🌍 Currently based in the Dominican Republic 🇩🇴.
@@ -27,13 +29,38 @@
 ## 🛠 Stack 
 
 <!-- Tech Stack Icons -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,gradle,maven,docker,flask,javascript,c,cpp,html,css,bootstrap,angular,mysql,mongodb,postgres,hibernate,flutter,anaconda,linux,git,idea,aws,googlecloud,postman,figma"  />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="70" height="70" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="70" height="70" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=gradle" width="70" height="70" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=maven" width="70" height="70" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=flask" width="70" height="70" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="70" height="70" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" width="70" height="70" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="70" height="70" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="70" height="70" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular" width="70" height="70" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=hibernate" width="70" height="70" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="70" height="70" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="70" height="70" alt="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IDEA" />
+  <img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" width="70" height="70" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" />
 </p>
 
-## Featured Projects
+
+## 🌟 Featured Projects
 
 <table>
 <tr>
