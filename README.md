@@ -1,7 +1,3 @@
-a {
-  text-decoration: none;
-}
-
 <h1 align="center">
   Hello, I'm Darvy Betances
 </h1>
@@ -56,7 +52,6 @@ a {
   <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=googlecloud" width="60" height="60" alt="Google Cloud" />
   <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
 </p>
 
 
