@@ -1,118 +1,102 @@
-## Hello GitHub Community 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darvy%20Betances-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darvybm) [![GitHub followers](https://img.shields.io/github/followers/darvybm?style=social)](https://github.com/darvybm)
+# Hello, I'm Darvy Betances 👋
 
-<img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner-rounded.png" width="100%"/>
+<img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner.png" width="100%"/>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/darvybm" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Darvy%20Betances-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/darvybm" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%2380ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Followers"/>
+  </a>
+</p>
 
-### I'm Darvy Betances
 
-- 🎓 Computer Science Engineer with a passion for fullstack development and data engineering.
+
+
+
+## About me
+
+- 🎓 Computer Science Engineer with a passion for backend and fullstack development and data engineering.
 - 🌍 Currently based in the Dominican Republic 🇩🇴.
 - 💻 I enjoy working with Java, Spring Boot, and a variety of backend and frontend technologies.
 - 📊 Data engineering and artificial intelligence enthusiast.
 - 🌱 Currently enhancing my skills in Angular, testing, and cloud computing with AWS and Google Cloud.
 
----
 
-<div align="center">
-<h3> 🛠 Tech Stack </h3>
+## 🛠 Stack 
+
+<!-- Tech Stack Icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,gradle,maven,docker,flask,javascript,c,cpp,html,css,bootstrap,angular,mysql,mongodb,postgres,hibernate,flutter,anaconda,linux,git,idea,aws,googlecloud,postman,figma"  />
+  </a>
+</p>
+
+## Featured Projects
+
 <table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="48" height="48"/>
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48"/>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="48" height="48"/>
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="48" height="48"/>
-      <br>Gradle
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="48" height="48"/>
-      <br>Maven
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="48" height="48"/>
-      <br>Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="48" height="48">
-      <br>Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="48" height="48"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="48" height="48"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="48" height="48"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" width="48" height="48"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="48" height="48"/>
-      <br>Angular
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="48" height="48"/>
-      <br>SQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48"/>
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48"/>
-      <br>Flutter
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226772.png" alt="Linux" width="48" height="48"/>
-      <br>Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="48" height="48" style="color:#FCCA03"/>
-      <br>Power BI
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="48" height="48"/>
-      <br>Excel
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%">
+<h3 align="center">ExamGuard-AI</h3>
+<div align="center">
+<a href="https://github.com/darvybm/examguard-ai" target="_blank">
+<img src="https://img.shields.io/badge/SEE%20MORE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="See more"/>
+</a>
+<p>AI-powered system for detecting fraudulent behavior in exam recordings, developed with Python and Spring Boot. It utilizes deep learning and computer vision technologies.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF9A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-17A2B8?style=for-the-badge&logo=openai&logoColor=white" alt="Computer Vision"/>
+</p>
 </div>
+</td>
 
----
+<td width="50%">
+<h3 align="center">MockupAPI</h3>
+<div align="center">
+<a href="https://github.com/darvybm/mockup-api" target="_blank">
+<img src="https://img.shields.io/badge/SEE%20MORE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="See more"/>
+</a>
+<p>A web app for simulating REST APIs, designed for efficient testing. It supports multiple HTTP methods, JWT validation, and allows users to create API mocks easily.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+</p>
+</div>
+</td>
+</tr>
 
-🚀 **Always open to new connections and opportunities!** Whether you're looking for collaboration, mentorship, or just want to chat tech, feel free to reach out and let's connect! 😊
+<tr>
+<td width="50%">
+<h3 align="center">Cutlink</h3>
+<div align="center">
+<a href="https://github.com/darvybm/cutlink" target="_blank">
+<img src="https://img.shields.io/badge/SEE%20MORE-cfaae0?style=for-the-badge&logo=github&logoColor=black" alt="See more"/>
+</a>
+<p>A web-based URL shortening system developed with Java and the Javalin framework. It features a comprehensive statistics dashboard and additional functionalities for URL management.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Javalin-6DB33F?style=for-the-badge&logo=javalin&logoColor=white" alt="Javalin"/>
+</p>
+</div>
+</td>
 
----
+<td width="50%">
+<h3 align="center">Pokedex Mobile</h3>
+<div align="center">
+<a href="https://github.com/darvybm/pokedex-mobile" target="_blank">
+<img src="https://img.shields.io/badge/SEE%20MORE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="See more"/>
+</a>
+<p>A mobile Pokédex app built with Flutter, powered by PokeAPI. It allows users to browse, search, and explore detailed, real-time Pokémon information.</p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+
