@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Darvy Betances
+  Hello, I'm Darvy Betances <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium%20Skin%20Tone.png" alt="Love-You Gesture Medium Skin Tone" width="40" height="40" />
 </h1>
 
 <img alt="Banner" src="https://github.com/darvybm/darvybm/blob/main/darvybm-banner.png" width="100%"/>
