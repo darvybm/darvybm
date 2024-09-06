@@ -30,33 +30,33 @@ a {
 
 <!-- Tech Stack Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="70" height="70" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" width="70" height="70" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=gradle" width="70" height="70" alt="Gradle" />
-  <img src="https://skillicons.dev/icons?i=maven" width="70" height="70" alt="Maven" />
-  <img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=flask" width="70" height="70" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="70" height="70" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=c" width="70" height="70" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="70" height="70" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="70" height="70" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=angular" width="70" height="70" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=hibernate" width="70" height="70" alt="Hibernate" />
-  <img src="https://skillicons.dev/icons?i=flutter" width="70" height="70" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=anaconda" width="70" height="70" alt="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IDEA" />
-  <img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" width="70" height="70" alt="Google Cloud" />
-  <img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=gradle" width="60" height="60" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=maven" width="60" height="60" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=hibernate" width="60" height="60" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="60" height="60" alt="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="IDEA" />
+  <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" width="60" height="60" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
 </p>
 
 
