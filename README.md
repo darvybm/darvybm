@@ -72,6 +72,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF9A00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-17A2B8?style=for-the-badge&logo=openai&logoColor=white" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 </div>
 </td>
@@ -93,15 +94,19 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">Cutlink</h3>
+<h3 align="center">Library Microservices</h3>
 <div align="center">
-<a href="https://github.com/darvybm/cutlink" target="_blank">
+<a href="https://github.com/darvybm/library-microservices" target="_blank">
 <img src="https://img.shields.io/badge/SEE%20MORE-cfaae0?style=for-the-badge&logo=github&logoColor=black" alt="See more"/>
 </a>
-<p>A web-based URL shortening system developed with Java and the Javalin framework. It features a comprehensive statistics dashboard and additional functionalities for URL management.</p>
+<p>Book management system with a microservices architecture, developed using Spring Boot and Spring Cloud, featuring functionalities such as catalog management, shopping cart, authentication, reviews, notifications, and invoicing.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Javalin-6DB33F?style=for-the-badge&logo=javalin&logoColor=white" alt="Javalin"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 </div>
 </td>
@@ -115,10 +120,11 @@
 <p>A mobile Pokédex app built with Flutter, powered by PokeAPI. It allows users to browse, search, and explore detailed, real-time Pokémon information.</p>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
+<img src="https://img.shields.io/badge/PokeAPI-EE0000?style=for-the-badge&logo=pokeapi&logoColor=white" alt="PokeAPI"/>
 </p>
 </div>
 </td>
-</tr>
 </table>
-
-
