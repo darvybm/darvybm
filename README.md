@@ -87,10 +87,11 @@
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white" alt="JWT"/>
 </p>
 </div>
 </td>
-</tr>
 
 <tr>
 <td width="50%">
